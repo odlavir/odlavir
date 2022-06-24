@@ -16,7 +16,7 @@ Olá, eu sou o Odlavir Florentino
 
 ## Meus contatos
 
-- Twitter @lavirandrade
+
 - Instagram @lavirandrade
 - LinkedIn https://www.linkedin.com/in/odlavir/
 - Github @odlavir
