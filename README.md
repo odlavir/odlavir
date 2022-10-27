@@ -10,6 +10,7 @@ Olá, eu sou o Odlavir Florentino
 
 ## Atualmente estudando
 
+- Java
 - JavaScript
 - Git e Github
 - Node.js
