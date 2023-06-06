@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=80% src="https://capsule-render.vercel.app/api?type=waving&color=1:4682B4,100:a82da8_custom_gradient&height=200&section=header&text=Welcome%&fontSize=75"/>
+  <img width=1000vh src="https://capsule-render.vercel.app/api?type=waving&color=1:4682B4,100:a82da8_custom_gradient&height=120&section=header&text=Welcome%&fontSize=70"/>
 </p>
 
  ### I'm a Web Developer looking for opportunities and collaboration in porjects related to BackAnd development.<br>
