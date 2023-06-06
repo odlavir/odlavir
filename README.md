@@ -11,7 +11,7 @@
 
 <div align="center">
     <img width=50% height="200px" src="https://github-readme-stats.vercel.app/api?username=odlavir&show_icons=true&bg_color=1:4682B4,100:a82da8_custom_gradient"/>
-     <img width=41% height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odlavir&layout=compact&title_color=1:4682B4,100:a82da8_custom_gradient&text_color=1:4682B4,100:a82da8_custom_gradient&bg_color=1:4682B4,100:a82da8_custom_gradient"/>
+     <img width=41% height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odlavir&layout=compact&title_color=1:4682B4,100:a82da8_custom_gradient&text_color=1:4682B4,100:a82da8_custom_gradient&bg_color=1:4682B4,100:a82da8_custom_gradient"/>
 </div>
 
 <br> 
