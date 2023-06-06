@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=1000vh src="https://capsule-render.vercel.app/api?type=waving&color=1:4682B4,100:a82da8_custom_gradient&height=120&section=header&text=Welcome%&fontSize=70"/>
+  <img width=1000vh src="https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=200&section=header&text=Welcome&fontSize=75"/>
 </p>
 
  ### I'm a Web Developer looking for opportunities and collaboration in porjects related to BackAnd development.<br>
@@ -10,8 +10,8 @@
 <br>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odlavir&show_icons=true&bg_color=1:4682B4,100:a82da8_custom_gradient"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odlavir&layout=compact&title_color=1:4682B4,100:a82da8_custom_gradient&text_color=1:4682B4,100:a82da8_custom_gradient&bg_color=1:4682B4,100:a82da8_custom_gradient"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odlavir&show_icons=true&bg_color=B0C4DE&title_color=1C1C1C"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odlavir&layout=compact&title_color=1C1C1C&text_color=1C1C1C&bg_color=B0C4DE"/>
 </div>
 
 <br> 
