@@ -2,7 +2,7 @@
   <img width=1000vh src="https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=200&section=header&text=Welcome&fontSize=75"/>
 </p>
 
- ### I'm a Web Developer looking for opportunities and collaboration in porjects related to BackAnd development.<br>
+ ### I'm a Web Developer looking for opportunities and collaboration in porjects related to BackEnd development.<br>
   * I'm currently working on my hard and soft skills to get my first opportunity in technology area.
   * I'm currently learning Java and Spring.
   * I'm looking to collaborate with people who have similar interests for join evolution.
